@@ -1,0 +1,18 @@
+# Streamlit
+streamlit==1.48.1
+
+# Data manipulation
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+xgboost
+pmdarima
+
+# Visualization
+matplotlib
+seaborn
+plotly
+altair
+pydeck
