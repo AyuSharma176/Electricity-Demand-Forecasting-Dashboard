@@ -87,6 +87,6 @@ To run this project on your local machine, follow these steps:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 -   **Data Source:** The default dataset used is the [Hourly Electricity Consumption in the UK](https://www.kaggle.com/datasets/blue-pen-team/hourly-electricity-consumption-in-the-uk) available on Kaggle.
